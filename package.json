@@ -2,11 +2,16 @@
   "name": "comp2156",
   "version": "1.0.0",
   "description": "Github action and node project example",
+  "description": "COMP2156 Lab Exercise",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
+<<<<<<< HEAD
   "author": "",
+=======
+  "author": "Ismayil Mammadov",
+>>>>>>> 1f87cef (Node project created and GitHub Actions script updated.)
   "license": "ISC"
 }
