@@ -1,12 +1,13 @@
 {
   "name": "comp2156",
   "version": "1.0.0",
-  "description": "COMP2156 Lab Exercise",
+  "description": "COMP2156 Lab_4 Exercise",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"No ci configured\""
   },
   "keywords": [],
-  "author": "Ismayil Mammadov",
+  "author": "Ismayil Mammadov, ID:101395237",
   "license": "ISC"
 }
