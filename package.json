@@ -1,7 +1,6 @@
 {
   "name": "comp2156",
   "version": "1.0.0",
-  "description": "Github action and node project example",
   "description": "COMP2156 Lab Exercise",
   "main": "index.js",
   "scripts": {
