@@ -25,4 +25,13 @@
     "yarn": "^1.13.0"
   }
   
+  "description": "COMP2156 Lab_4 Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"No ci configured\""
+  },
+  "keywords": [],
+  "author": "Ismayil Mammadov, ID:101395237",
+  "license": "ISC"
 }
